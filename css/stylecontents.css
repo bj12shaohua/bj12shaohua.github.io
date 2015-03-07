@@ -1,14 +1,14 @@
 @font-face { 
-  font-family: 'chinese';
-  src: url('/fonts/NotoSansHans-Regular.otf'); 
+  font-family: "chinese";
+  src: url("/fonts/NotoSansHans-Regular.otf");
 } 
 
 .chinese, .chine {
-  font-family: 'chinese';
+  font-family: "Noto Sans S Chinese Light","Noto Sans S Chinese","Microsoft YaHei","STHeiti","STXihei","SimHei","chinese";
 }
 
 .arc-indent {
-  font-family: 'chinese';
+  font-family: "Noto Sans S Chinese Light","Noto Sans S Chinese","Microsoft YaHei","STHeiti","STXihei","SimHei","chinese";
   text-indent: 2em;
 }
 
